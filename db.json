@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Meeting at school",
+      "day": "feb 4th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Food Shopping",
+      "day": "feb 7th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "doctors appointment",
+      "day": "march 7th",
+      "reminder": true
+    },
+    {
+      "text": "kshitiz thapa",
+      "day": "2021 covid-19",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
